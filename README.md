@@ -1,1 +1,2 @@
-# scoreToExcelWHU
+# 教务系统成绩导出工具
+· 需要使用第三方库 xlwt
