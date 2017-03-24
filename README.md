@@ -4,3 +4,5 @@
 * 需要手动输入验证码
 * 导出的Excel为xls格式 
 * 源代码可随意修改
+## 交流
+* lzhwang@whu.edu.cn
